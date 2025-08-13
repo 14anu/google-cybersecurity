@@ -1,6 +1,3 @@
-# google-cybersecurity
-Notes, projects, and exercises from the Google Cybersecurity Professional Certificate program.
-
 # Google Cybersecurity Professional Certificate 📜🔐
 
 Tracking my learning journey through the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) program on Coursera.
