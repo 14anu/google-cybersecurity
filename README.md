@@ -10,7 +10,7 @@ Tracking my learning journey through the [Google Cybersecurity Professional Cert
 ## 📅 Progress Overview
 - **Course 1:** Foundations of Cybersecurity ✅ Completed  
   - Completion Date: 13 Aug 2025  
-  - [View Certificate](CERTIFICATE_LINK)  
+  - [View Certificate](c1.pdf)
 - **Course 2:** Play it Safe: Manage Security Risks – 🚀 In Progress  
 - **Courses 3–9:** Not started yet
 
