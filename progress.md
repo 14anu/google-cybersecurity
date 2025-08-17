@@ -8,5 +8,5 @@
 - Started: 13 Aug 2025
 - Progress: 13% 
 
-### 17 Aug 2025
+- Date: 17 Aug 2025
 - Progress: 25%
