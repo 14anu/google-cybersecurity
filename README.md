@@ -6,17 +6,20 @@ Tracking my learning journey through the [Google Cybersecurity Professional Cert
 
 ## 📅 Progress Overview
 - **Course 1:** Foundations of Cybersecurity ✅ Completed  
-  - Completion Date: 13 Aug 2025  
+  - Completion Date: 24 July 2025  
   - [View Certificate](certificates/c1.pdf)  
-- **Course 2:** Play it Safe: Manage Security Risks – 🚀 In Progress  
-- **Courses 3–9:** Not started yet
+- **Course 2:** Play it Safe: Manage Security Risks ✅ Completed
+  - Completion Date: 30 August 2025
+  - [View Certificate](certificates/c2.pdf)
+- **Course 3:** Connect and Protect: Networks and Network Security 🚀 In Progress
+- **Courses 4–9:** Not started yet 
 
 ---
 
 ## 📊 Program Structure
 1. Foundations of Cybersecurity ✅
-2. Play It Safe: Manage Security Risks 🚀
-3. Connect and Protect: Networks and Network Security
+2. Play It Safe: Manage Security Risks ✅
+3. Connect and Protect: Networks and Network Security 🚀
 4. Tools of the Trade: Linux and SQL
 5. Assets, Threats, and Vulnerabilities
 6. Sound the Alarm: Detection and Response
