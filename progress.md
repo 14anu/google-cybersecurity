@@ -13,3 +13,9 @@
   - 20 Aug 2025 → 100%
 - Completion Date: August 30, 2025
 - Certificate: [c2.pdf](certificates/c2.pdf)
+
+## Course 3: Connect and Protect: Networks and Network Security 🚀 In Progress
+- Started: 4 September 2025
+- Progress:
+- 10 September 2025 → 16%
+- 24 September → 38%
